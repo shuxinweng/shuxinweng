@@ -2,7 +2,7 @@
 
 I'm Shuxin Weng, a Computer Science student at Hunter College, New York. Skilled in JavaScript, C++, Swift, and frameworks like React and Node.js
 
-!(https://github-readme-stats.vercel.app/api?username=shuxinweng&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=shuxinweng&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuxinweng&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
