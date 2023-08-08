@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shuxin Weng</h1>
 
-<img src=./Assets/hello-logos.jpeg />
+<img src=./Assets/hello-logos.jpeg height="100" width="200" />
 
 <h3 align="center">I'm Shuxin Weng, a Computer Science student at Hunter College, New York.</h3>
 
