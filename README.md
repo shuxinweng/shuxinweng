@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuxin Weng</h1>
 
-<div style="display: flex; justify-content: center;">
-  <img src="./Assets/hello-logos.jpeg"/>
-</div>
-
 <h3 align="center">I'm Shuxin Weng, a Computer Science student at Hunter College, New York.</h3>
 
 - 👨‍💻 All of my projects are available at [https://shuxinweng.github.io/ShuxinWeng-portfolio/](https://shuxinweng.github.io/ShuxinWeng-portfolio/)
